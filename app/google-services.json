@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "767920208342",
+    "firebase_url": "https://motivationalthoughts-70ef6.firebaseio.com",
+    "project_id": "motivationalthoughts-70ef6",
+    "storage_bucket": "motivationalthoughts-70ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767920208342:android:8bc0343646eb3c3b",
+        "android_client_info": {
+          "package_name": "actiknow.com.motivationalthoughts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767920208342-pvgdcav15rn0e1dgkpstv3jtc82g72hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "actiknow.com.motivationalthoughts",
+            "certificate_hash": "363994db927082f24912891d22246809c6cef94f"
+          }
+        },
+        {
+          "client_id": "767920208342-hs81ci2oqgftque31m1o3ogg9v4epgb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8flbBYXcb5WL09Q3ZN06OqUCNFCZ5hPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767920208342-hs81ci2oqgftque31m1o3ogg9v4epgb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
